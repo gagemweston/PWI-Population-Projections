@@ -1,2 +1,2 @@
-# spike
-Population Wellbeing Initiative "Spike" paper on long-term global population given various fertility scenarios
+# PWI Population Projections
+Population Wellbeing Initiative projections and code on long-term global population
