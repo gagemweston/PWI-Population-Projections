@@ -14,10 +14,9 @@ This program was last updated on **January 31, 2023**. It was primarily written 
 2. WPP_input_data.csv: data on fertility, sex-specific mortality and population in 5-year age-groups and 5-year period from 2025-2100 from UN WPP zero-migration variant, re-formatted to be read by our program.
 3. main_output.csv: population and births by period, age-group and asymptotic fertility scenario from 2025-3000
 4. rebound_output.csv: population and births by period, age-group and asymptotic fertility scenario from 2025-3000 where TFR "rebounds" to replacement fertility at various years.
-5. appendix_output.csv: projections containing population, births, deaths and years of life lived by period in a combined age-group across various fertility and life-expectancy scenarios. This is used for our appendix figures.
-6. spike_history.dta: time-series of human global population (10,000 BCE to 2023 CE)
-7. bspike_history.dta: time-series of human global births per year (10,000 BCE to 2023 CE)
-8. main_figures_stata.do: Stata program that generates the figures from our paper (not including the appendix).
+5. appendix_output.csv: projections containing population, births, deaths and years of life lived by period in a combined age-group across various fertility and life-expectancy scenarios. This is used for our appendix figures (which are generated in the python file).
+6. population_history.csv: time-series of human global population and annual births (10,000 BCE to 2023 CE)
+8. main_figures.do: Stata program that generates the figures from our paper (not including the appendix).
 
 **About PWI**
 
